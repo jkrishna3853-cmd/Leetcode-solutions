@@ -1,0 +1,90 @@
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# IDEs & Code Editors
+# ==========================================
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains (PyCharm, CLion, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+
+# Vim
+*.swp
+*.swo
+
+# ==========================================
+# Language-Specific Build & Runtime Artifacts
+# ==========================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# C / C++
+*.o
+*.obj
+*.out
+a.out
+*.exe
+*.dSYM/
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# JavaScript / TypeScript / Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# ==========================================
+# Environment Variables & Keys
+# ==========================================
+.env
+.env.local
+*.pem
