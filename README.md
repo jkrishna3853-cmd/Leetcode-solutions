@@ -6,6 +6,6 @@ Collection of my accepted solutions to LeetCode problems, organized by difficult
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 0 |
-| 🟡 Medium | 1 |
+| 🟢 Easy | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
