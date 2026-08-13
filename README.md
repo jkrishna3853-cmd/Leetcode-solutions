@@ -7,5 +7,5 @@ Collection of my accepted solutions to LeetCode problems, organized by difficult
 | Difficulty | Solved |
 | :--- | :--- |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 2 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
