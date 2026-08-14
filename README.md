@@ -71,11 +71,13 @@
 | ------- |
 | [0018-4sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
