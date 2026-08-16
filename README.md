@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0031-next-permutation) |
 ## Sorting
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
