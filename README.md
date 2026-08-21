@@ -157,4 +157,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
