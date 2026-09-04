@@ -132,6 +132,7 @@
 | [0046-permutations](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -241,4 +242,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
