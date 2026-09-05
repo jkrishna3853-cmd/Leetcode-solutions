@@ -86,6 +86,7 @@
 | [0048-rotate-image](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,10 +168,12 @@
 | [0042-trapping-rain-water](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
