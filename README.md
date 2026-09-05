@@ -89,6 +89,7 @@
 | [0053-maximum-subarray](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0018-4sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,4 +254,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
