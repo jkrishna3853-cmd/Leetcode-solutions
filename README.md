@@ -138,6 +138,7 @@
 | [0065-valid-number](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0063-unique-paths-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0072-edit-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
