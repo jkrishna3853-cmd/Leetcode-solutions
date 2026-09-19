@@ -189,6 +189,7 @@
 | [0062-unique-paths](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0060-permutation-sequence](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
