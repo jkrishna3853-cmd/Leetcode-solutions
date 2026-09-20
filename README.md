@@ -99,6 +99,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0047-permutations-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
