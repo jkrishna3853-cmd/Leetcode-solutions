@@ -115,6 +115,7 @@
 | [0061-rotate-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Stack
 |  |
 | ------- |
