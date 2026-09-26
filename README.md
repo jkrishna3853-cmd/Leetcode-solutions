@@ -174,6 +174,7 @@
 | [0052-n-queens-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
@@ -269,11 +270,13 @@
 | [0062-unique-paths](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
