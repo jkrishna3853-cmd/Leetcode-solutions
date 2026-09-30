@@ -362,6 +362,7 @@
 | ------- |
 | [0079-word-search](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -371,13 +372,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
