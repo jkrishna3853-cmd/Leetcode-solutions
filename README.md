@@ -366,6 +366,7 @@
 | [0099-recover-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0101-symmetric-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [0101-symmetric-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -405,4 +408,5 @@
 | [0101-symmetric-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
