@@ -1,8 +1,5 @@
 from typing import List, Optional
 
-# class TreeNode: (LeetCode provides this)
-#     def __init__(self, val=0, left=None, right=None): ...
-
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
         idx = {val: i for i, val in enumerate(inorder)}
